@@ -4,9 +4,14 @@
 ## Level 1 - Just deletes the message
 
 #### Words
-- Cringe
 - Terrorist
 - Shooting
+- trump
+- kamala
+- harris
+- tariffs
+- president
+
 
 #### Regex
 ```
@@ -19,6 +24,12 @@
 #### Words
 - Retard
 - Where women belong
+- sugar mom
+- sugar dad
+- sugar mommy
+- sugar daddy
+- kms
+  
 
 
 #### Regex
@@ -32,6 +43,7 @@ None
 - Slut
 - > S!ut
 - Mass Shooter
+- smd
 
 #### Regex
 None
@@ -65,6 +77,8 @@ i['’]?\\s*m\\s*(0?[0-9]|1[0-2])\\b ("im 1-12")
 - Tranny
 - Faggot
 - > F@ggot
+-  > fag
+-  > f@g
 - Nigger
 - > N!gger
 - Nigga
