@@ -4,9 +4,9 @@
 ## Level 1 - Just deletes the message
 
 #### Words
-Cringe \n
-Terrorist \n
-Shooting \n
+- Cringe
+- Terrorist
+- Shooting
 
 #### Regex
 ```
