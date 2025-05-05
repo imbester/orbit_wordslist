@@ -17,8 +17,8 @@
 ## Level 2 - 1 hour mute
 
 #### Words
-Retard
-Where women belong
+- Retard
+- Where women belong
 
 
 #### Regex
@@ -27,11 +27,11 @@ None
 ## Level 3 - 2 hour mute
 
 #### Words
-Pedo
-Cunt
-Slut
-> S!ut
-Mass Shooter
+- Pedo
+- Cunt
+- Slut
+- > S!ut
+- Mass Shooter
 
 #### Regex
 None
@@ -39,16 +39,16 @@ None
 ## Level 4 - Ban request
 
 #### Words
-Kill yourself
-> kys
-Niger
-> N!ger
-Milf
-Dilf
-Loli
-Beheading
-Doxxing
-> D0x
+- Kill yourself
+- > kys
+- Niger
+- > N!ger
+- Milf
+- Dilf
+- Loli
+- Beheading
+- Doxxing
+- > D0x
 
 #### Regex
 ```
@@ -62,22 +62,22 @@ i['’]?\\s*m\\s*(0?[0-9]|1[0-2])\\b ("im 1-12")
 ## Level 5 - Instant Ban
 
 #### Words
-Tranny
-Faggot
-> F@ggot
-Nigger
-> N!gger
-Nigga
-> N!gga
-Rape
-> R@pe
-> Rap3
-Child porn
-> cp
-> child corn
-Porn
-Hentai
-Bestiality
+- Tranny
+- Faggot
+- > F@ggot
+- Nigger
+- > N!gger
+- Nigga
+- > N!gga
+- Rape
+- > R@pe
+- > Rap3
+- Child porn
+- > cp
+- > child corn
+- Porn
+- Hentai
+- Bestiality
 
 ### Regex
 None
