@@ -3,12 +3,12 @@
 
 ## Level 1 - Just deletes the message
 
-### Words
+#### Words
 Cringe \n
 Terrorist \n
 Shooting \n
 
-### Regex
+#### Regex
 ```
 -russian-roulette\\s* (obvi)
 -rr\\s* (obvi)
@@ -16,29 +16,29 @@ Shooting \n
 
 ## Level 2 - 1 hour mute
 
-### Words
+#### Words
 Retard
 Where women belong
 
 
-### Regex
+#### Regex
 None
 
 ## Level 3 - 2 hour mute
 
-### Words
+#### Words
 Pedo
 Cunt
 Slut
 > S!ut
 Mass Shooter
 
-### Regex
+#### Regex
 None
 
 ## Level 4 - Ban request
 
-### Words
+#### Words
 Kill yourself
 > kys
 Niger
@@ -50,7 +50,7 @@ Beheading
 Doxxing
 > D0x
 
-### Regex
+#### Regex
 ```
 free\\s*nitro (obvi)
 \\(\\d{3}\\)-\\d{3}-\\d{4} (phone numbers)
@@ -61,7 +61,7 @@ i['’]?\\s*m\\s*(0?[0-9]|1[0-2])\\b ("im 1-12")
 ```
 ## Level 5 - Instant Ban
 
-### Words
+#### Words
 Tranny
 Faggot
 > F@ggot
